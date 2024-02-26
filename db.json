@@ -9,6 +9,8 @@
         "industri": "Pemerintahan",
         "timeline": "2019",
         "solutions": "ERP"
+        "image-card": "imagecard1.png",
+        "logo": "british_council.png"
       },
       {
         "id": "Tereos-FKS-Indonesia",
@@ -18,7 +20,9 @@
         "konten": "Anda kutahu semua akan sia-sia takan ku trima cinta sesaat mu.... Bagaimana dengan aku terlanjur mencintaimu yang datang beri harapan lalu pergi dan menghilang tak terfikirkan olehmu hatiku hancur karnmu tanpa sedikit alasan pergi tanpa berpamitan takan ku trima cinta sesaatmu.",
         "industri": "Pemerintahan",
         "timeline": "2019",
-        "solutions": "ERP"
+        "solutions": "ERP",
+        "image-card": "imagecard2.png",
+        "logo": "tereos.png"
       },
       {
         "id": "Politeknik-STIA-LAN-Jakarta",
@@ -29,6 +33,8 @@
         "industri": "Pemerintahan",
         "timeline": "2019",
         "solutions": "ERP"
+        "image-card": "imagecard3.png",
+        "logo": "politeknik.png"
       },
       {
         "id": "Saka-Farma-Laboratories",
@@ -39,6 +45,8 @@
         "industri": "Pemerintahan",
         "timeline": "2019",
         "solutions": "ERP"
+        "image-card": "imagecard4.png",
+        "logo": "kalbe.png"
       }
     ],
    "dataCompanyLogo" : [
