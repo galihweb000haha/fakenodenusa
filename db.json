@@ -1,7 +1,7 @@
 {
   "dataProjects" : [
       { 
-        "id": 1,
+        "id": "British-Council-Indonesia",
         "judul": "Speeding Up Knowledge, PT. British Council Indonesia’s Fiber Optic Makeover", 
         "ringkasan": "Nusa offers a comprehensive solution with FortiGate, safeguarding their network infrastructure.",
         "foto": "/img/blog/image1.webp",
@@ -11,7 +11,7 @@
         "solutions": "ERP"
       },
       {
-        "id": 2,
+        "id": "Tereos-FKS-Indonesia",
         "judul": "Fortigate 200F: The Secret Ingredient to PT. Tereos FKS Indonesia’s Digital Success", 
         "ringkasan": "Experience enhanced connectivity, improved network performance, and fortified security.",
         "foto": "/img/blog/image2.png",
@@ -21,7 +21,7 @@
         "solutions": "ERP"
       },
       {
-        "id": 3,
+        "id": "Politeknik-STIA-LAN-Jakarta",
         "judul": "Leveling Up Learning and Security, Politeknik STIA LAN Jakarta’s Digital Transformation", 
         "ringkasan": "Experience enhanced performance, scalability, and data protection, all while optimizing efficiency.",
         "foto": "/img/blog/image3.png",
@@ -31,7 +31,7 @@
         "solutions": "ERP"
       },
       {
-        "id": 4,
+        "id": "Saka-Farma-Laboratories",
         "judul": "From Bottlenecks to Breakthrough, PT. Saka Farma Laboratories Uncorks Efficiency with HPE ProLiant Servers", 
         "ringkasan": "We understand the critical nature of mining operations and the value of sensitive data.",
         "foto": "/img/blog/image4.png",
